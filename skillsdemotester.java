@@ -4,6 +4,6 @@ import org.junit.*;
 public class skillsdemotester {
     @Test
     public void greaterThanFiveTest() {
-        assertEquals(true, skillsdemo.greaterThanFive(4));
+        assertEquals(true, skillsdemo.greaterThanFive(10));
     }
 }
